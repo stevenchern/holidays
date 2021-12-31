@@ -6,7 +6,7 @@ require 'holidays/version'
 
 Gem::Specification.new do |gem|
   gem.name          = 'holidays'
-  gem.version       = Holidays::VERSION
+  gem.version       = '8.4.2'
   gem.authors       = ['Alex Dunae', 'Phil Peble']
   gem.email         = ['holidaysgem@gmail.com']
   gem.homepage      = 'https://github.com/holidays/holidays'
