@@ -17,7 +17,7 @@ module Holidays
             {:function => "easter(year)", :function_arguments => [:year], :name => "Páscoa", :regions => [:br]},
             {:function => "easter(year)", :function_arguments => [:year], :function_modifier => 60, :name => "Corpus Christi", :regions => [:br]}],
       1 => [{:mday => 1, :name => "Dia da Confraternização Universal", :regions => [:br]},
-            {:mday => 25}, {:name => 'Aniversário de São Paulo'}, {:regions [:br]}],
+            {:mday => 25}, {:name => 'Aniversário de São Paulo'}, {:regions => [:br]}],
       4 => [{:mday => 21, :name => "Dia de Tiradentes", :regions => [:br]}],
       5 => [{:mday => 1, :name => "Dia do Trabalho", :regions => [:br]}],
       6 => [{:mday => 9, :name => "Revolução Constitucionalista", :regions => [:br]}],
