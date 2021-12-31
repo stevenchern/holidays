@@ -14,7 +14,6 @@ module Holidays
       {
       0 => [{:function => "easter(year)", :function_arguments => [:year], :function_modifier => -47, :name => "Carnaval", :regions => [:br]},
             {:function => "easter(year)", :function_arguments => [:year], :function_modifier => -2, :name => "Sexta-feira Santa", :regions => [:br]},
-            {:function => "easter(year)", :function_arguments => [:year], :name => "Páscoa", :regions => [:br]},
             {:function => "easter(year)", :function_arguments => [:year], :function_modifier => 60, :name => "Corpus Christi", :regions => [:br]}],
       1 => [{:mday => 1, :name => "Dia da Confraternização Universal", :regions => [:br]},
             {:mday => 25}, {:name => 'Aniversário de São Paulo'}, {:regions => [:br]}],
